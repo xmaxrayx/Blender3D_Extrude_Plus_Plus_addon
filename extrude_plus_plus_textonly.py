@@ -95,10 +95,10 @@ class Extrude_plus_plus(Menu):
         # operator_enum will just spread all available options
         # for the type enum of the operator on the pie
         
-        pie.operator("my.extrude")
-        pie.operator("myextrude.individual")
-        pie.operator("myextrude.manifold")
-        pie.operator("myextrude.along")
+        pie.operator("my.extrude", icon="EMPTY_SINGLE_ARROW")
+        pie.operator("myextrude.individual", icon="OUTLINER_OB_POINTCLOUD")
+        pie.operator("myextrude.manifold", icon="MOD_SOLIDIFY")
+        pie.operator("myextrude.along", icon="MOD_BOOLEAN")
 
 
 def register():
