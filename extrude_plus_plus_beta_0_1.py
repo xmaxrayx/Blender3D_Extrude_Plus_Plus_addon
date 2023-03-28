@@ -2,11 +2,11 @@ bl_info = {
     "name": "Extrude + +",
     "author": "xMaxrayx, xMaxrayx-P",
     "version": (0, 1),
-    "blender": (2, 80, 0),
-    "location": "Called by a hotkey",
-    "description": "Pi menue for Extrude and other stuff",
-    "warning": "",
-    "doc_url": "",
+    "blender": (3, 40, 0),
+    "location": "Called by a Hotkey F2 as defoalt",
+    "description": "Pie menue for Extrude and other stuff",
+    "warning": "Use it at you own risk",
+    "doc_url": "https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon",
     "category": "Edit Mesh",
 }
 
