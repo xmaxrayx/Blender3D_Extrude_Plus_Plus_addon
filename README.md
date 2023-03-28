@@ -7,7 +7,7 @@ also, we Aim to use `AHK` for :
 # `WIP`
 this addon in beta and I dont take any responsibility for any damage.
 > **Warning**
-> use it at your own risk!!! ▼o・ェ・o▼  
+> use it at your own risk!!! ⊙ω⊙
 
 ![image](https://user-images.githubusercontent.com/101531362/228271574-209d7ea6-6d18-4349-aba0-3fd4ad382ce6.png)
 
