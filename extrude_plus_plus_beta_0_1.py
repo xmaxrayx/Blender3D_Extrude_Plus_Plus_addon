@@ -142,4 +142,4 @@ def unregister():
 if __name__ == "__main__":
     register()
 
-    bpy.ops.wm.call_menu_pie(name="Extrude_plus_plus")
+    #bpy.ops.wm.call_menu_pie(name="Extrude_plus_plus")
