@@ -1,9 +1,9 @@
 # Blender3D_Extrude_Plus_Plus_addon
 `Extrude ++` is a Pie meneu for `4` extrude commands : `Extrude` `Extrude Along Nromals` `Extrude Manifold` `Extrude individually`.
 
-also, we Aim to use `AHK` for :
-- fast tap on the `E` key ------------> do fast normal extrude
-- long hold-down on the `E` key -----------> lounch Extrude ++ pie menu
+also, we Aim to use `AHK` (2 function in the same key) for : 
+- fast tap on the `E` key ------------> do fast normal extrude.
+- long hold-down on the `E` key -----------> lounch Extrude ++ pie menu.
 # `WIP`
 this addon in beta and I dont take any responsibility for any damage.
 > **Warning**
