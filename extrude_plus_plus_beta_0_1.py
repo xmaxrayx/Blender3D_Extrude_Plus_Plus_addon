@@ -119,7 +119,7 @@ def register():
     if kc:
         km = wm.keyconfigs.addon.keymaps.new(name='3D View', space_type='VIEW_3D')
         kmi = km.keymap_items.new("wm.call_menu_pie", type='F2', value='PRESS')
-        kmi.properties.name = "Extrude_plus_plus"
+        kmi.properties.name = "extrude.max"
         
  
   
