@@ -8,6 +8,7 @@ this addon in beta and I dont take any responsibility for any damage.
 
 ![image](https://user-images.githubusercontent.com/101531362/228271574-209d7ea6-6d18-4349-aba0-3fd4ad382ce6.png)
 
+See it on yt: https://youtu.be/2cxQUfyFzYc
 
 # How to install?
 
@@ -22,3 +23,13 @@ this addon in beta and I dont take any responsibility for any damage.
 - now you can use the addon with `F2` shortcut.
 
 # integrate with `AHK`
+
+- install AHK v1 you can downloud it here https://www.autohotkey.com
+
+- double click on `E_to_F2.ahk`
+
+> **Note**
+> you need to re-run the `E_to_F2.ahk` if you want to enjoy AHK intergathion.
+
+> **Warning**
+> some Anti-cheat don'ta allow AHK so be mind about that, you can close it on taskbar.
