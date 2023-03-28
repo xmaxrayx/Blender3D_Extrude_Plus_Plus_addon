@@ -1,13 +1,13 @@
 bl_info = {
-    "name": "New Object",
-    "author": "Your Name Here",
-    "version": (1, 0),
+    "name": "Extrude + +",
+    "author": "xMaxrayx, xMaxrayx-P",
+    "version": (0, 1),
     "blender": (2, 80, 0),
-    "location": "View3D > Add > Mesh > New Object",
-    "description": "Adds a new Mesh Object",
+    "location": "Called by a hotkey",
+    "description": "Pi menue for Extrude and other stuff",
     "warning": "",
     "doc_url": "",
-    "category": "Add Mesh",
+    "category": "Edit Mesh",
 }
 
 import bpy
