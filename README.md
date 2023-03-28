@@ -3,11 +3,11 @@
 
 also, we Aim to use `AHK` (2 function in the same key) for : 
 - fast tap on the `E` key ------------> do fast normal extrude.
-- long hold-down on the `E` key -----------> launch Extrude ++ pie menu.
+- long hold-down on the `E` key for 0.4 sec  -----------> launch Extrude ++ pie menu.
 # `WIP`
 this addon in beta and I dont take any responsibility for any damage.
 > **Warning**
-> use it at your own risk!!! ⊙ω⊙
+> use it at your own risk!!! :3
 
 ![image](https://user-images.githubusercontent.com/101531362/228271574-209d7ea6-6d18-4349-aba0-3fd4ad382ce6.png)
 
