@@ -44,9 +44,11 @@ class MY_EXTRUDE_INDIVIDUAL(bpy.types.Operator):
 
     def execute(self, context):
         #bpy.ops.mesh.extrude_faces_move()
-        #bpy.ops.view3d.edit.mesh.extrude_faces_move()
-        #bpy.ops.view3d.edit_mesh_extrude_manifold_normal()
-        #bpy.ops.view3d.edit_mesh_extrude_move_shrink_fatten()
+        bpy.ops.view3d.edit_mesh_extrude_individual_move()
+       
+       
+        #https://docs.blender.org/api/current/bpy.ops.view3d.html
+        
         return {'FINISHED'}
 #extrude individual end
 
