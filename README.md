@@ -4,6 +4,7 @@
 also, we Aim to use `AHK` (2 function in the same key) for : 
 - fast tap on the `E` key ------------> do fast normal extrude.
 - long hold-down on the `E` key for 0.4 sec  -----------> launch Extrude ++ pie menu.
+
 # `WIP`
 this addon in beta and I dont take any responsibility for any damage.
 > **Warning**
@@ -12,6 +13,9 @@ this addon in beta and I dont take any responsibility for any damage.
 ![image](https://user-images.githubusercontent.com/101531362/228271574-209d7ea6-6d18-4349-aba0-3fd4ad382ce6.png)
 
 See it on yt: https://youtu.be/2cxQUfyFzYc
+
+<br/>
+
 # how to downloud?
 
 - click on the link bellow and downloud last version. 
@@ -22,6 +26,7 @@ https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon/releases
 > **Note**
 > you must `unzip` the file.
 
+<br/>
 
 # How to install?
 
@@ -30,8 +35,9 @@ https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon/releases
 - go too `addon` section then click on `install` butten.
 
 ![2](https://user-images.githubusercontent.com/101531362/228266383-c27450af-9514-4eba-884c-9a0b1150ef4d.jpg)
-
+<br/>
 - selcet on `extrude_plus_plus_beta_0_1.py`
+
 
 ![blender_dqpExQnros](https://user-images.githubusercontent.com/101531362/228410024-71decf46-4b03-4eb2-a2e5-7f6475812c4e.jpg)
 
