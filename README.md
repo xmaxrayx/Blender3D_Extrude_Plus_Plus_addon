@@ -48,11 +48,15 @@ https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon/releases
 
 - now you can use the addon with `F2` shortcut.
 
+# Customized the shortcut
+
+go to Edit->prefrence
+
 # integrate with `AHK`
 
-- install AHK v1 you can downloud it here https://www.autohotkey.com
+- install AHK v2 you can download it here https://www.autohotkey.com
 
-- double click on `E_to_F2.ahk`
+- double click on `E_to_F2_AHKv2.ahk` file to run it 
 
 > **Note**
 > you need to re-run the `E_to_F2.ahk` if you want to enjoy AHK intergathion.
