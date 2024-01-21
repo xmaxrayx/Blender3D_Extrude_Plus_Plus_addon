@@ -48,10 +48,6 @@ https://github.com/xmaxrayx/Blender3D_Extrude_Plus_Plus_addon/releases
 
 - now you can use the addon with `F2` shortcut.
 
-# Customized the shortcut
-
-go to Edit->prefrence
-
 # integrate with `AHK`
 
 - install AHK v2 you can download it here https://www.autohotkey.com
@@ -63,3 +59,15 @@ go to Edit->prefrence
 
 > **Warning**
 > some Anti-cheat don'ta allow AHK so be mind about that, you can close it on taskbar manually.
+
+
+
+# Versions :
+
+## 0.2.0
+
+- changed from `F2` to `F8`+`OS Key` : that apply to AHK File and Addon file, (just remove the old one and install the new version you don't need to configure)
+
+## 0.1.0
+
+First release (beta)
