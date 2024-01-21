@@ -14,7 +14,7 @@ global time := 0.4 ;only numbers
 
 #HotIf WinActive("ahk_exe blender.exe")
 
-~e::{
+$E::{
 
 global time
 isKeyPressedTooLong := KeyWait("e" , "T" time)
